@@ -1,0 +1,13 @@
+Trelew(REL);Buenos Aires(AEP);AR1864;Aerolineas Argentinas;500;630;8069;
+Trelew(REL);Buenos Aires(AEP);AR1755;Aerolineas Argentinas;1100;1230;6069;
+Trelew(REL);Buenos Aires(AEP);AR1786;Aerolineas Argentinas;1235;1035;7069;
+Buenos Aires(AEP);Trelew(REL);AU1000;Aerolinea Austral;477;677; 16909;
+Buenos Aires(AEP);Trelew(REL);LA6645;LATAM Argentina;477;677;16909; 
+Buenos Aires(AEP);Trelew(REL);LA4455;LATAM Argentina;377;477;16909;
+Puerto Iguazu(IGR);Buenos Aires(AEP);AR1133;Aerolineas Argentinas;800;920;9420
+Puerto Iguazu(IGR);Buenos Aires(AEP);AR1200;Aerolineas Argentinas;477;597;9420
+Buenos Aires(AEP);Puerto Iguazu(IGR);AR1735;Aerolineas Argentinas;950;1070;13909
+Buenos Aires(AEP);Puerto Iguazu(IGR);LA6644;LATAM Argentina;477;590;16909
+Buenos Aires(AEP);Puerto Iguazu(IGR);LA7000;LATAM Argentina;777;877;16909
+Trelew(REL);Puerto Iguazu(IGR);AR2000;Aerolineas Argentinas;100;1630;30000
+Trelew(REL);Puerto Iguazu(IGR);LA7200;LATAM Argentina;100;1300;30000

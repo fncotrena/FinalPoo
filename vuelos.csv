@@ -1,0 +1,167 @@
+Mar del Plata(MDQ);Buenos Aires(AEP);AU2602;Austral Lineas Aereas;85;145;6799
+Trelew(REL);Ushuaia(USH);AR1864;Aerolineas Argentinas;750;880;8069
+Buenos Aires(AEP);Ushuaia(USH);LA7745;LATAM Argentina;477;677;16909
+Buenos Aires(AEP);Rio Gallegos(RGL);AR1882;Aerolineas Argentinas;522;702;11458
+Buenos Aires(AEP);Puerto Iguazu(IGR);AR1736;Aerolineas Argentinas;528;648;12162
+Buenos Aires(AEP);Rio Grande(RGA);AR1858;Aerolineas Argentinas;554;744;17045
+Buenos Aires(EZE);El Calafate(FTE);AR1820;Aerolineas Argentinas;532;707;15098
+Buenos Aires(EZE);Trelew(REL);AR1810;Aerolineas Argentinas;616;726;6479
+Buenos Aires(EZE);Rosario(ROS);AU2709;Austral Lineas Aereas;654;709;2438
+Puerto Iguazu(IGR);Buenos Aires(AEP);AR1733;Aerolineas Argentinas;667;787;9420
+Buenos Aires(AEP);Mar del Plata(MDQ);AU2617;Austral Lineas Aereas;676;736;5799
+Buenos Aires(EZE);Mendoza(MDZ);AU2463;Austral Lineas Aereas;681;796;9420
+Buenos Aires(EZE);Cordoba(COR);AR1500;Aerolineas Argentinas;690;765;4072
+Buenos Aires(AEP);Salta(SLA);4M7554;LATAM Argentina;714;829;7298
+Ushuaia(USH);Buenos Aires(AEP);4M7743;LATAM Argentina;729;929;11472
+Rosario(ROS);Buenos Aires(AEP);AU2701;Austral Lineas Aereas;732;787;2397
+Rio Gallegos(RGL);Buenos Aires(AEP);AR1883;Aerolineas Argentinas;737;917;9008
+Mendoza(MDZ);Buenos Aires(AEP);4M7643;LATAM Argentina;746;841;4892
+Buenos Aires(AEP);Bariloche(BRC);4M7764;LATAM Argentina;764;889;7272
+El Calafate(FTE);Ushuaia(USH);AR1870;Aerolineas Argentinas;769;849;10357
+Neuquen(NQN);Buenos Aires(AEP);4M7675;LATAM Argentina;772;867;4589
+Buenos Aires(EZE);Puerto Iguazu(IGR);AR2714;Aerolineas Argentinas;778;898;7891
+Buenos Aires(AEP);Tucuman(TUC);AR1479;Aerolineas Argentinas;779;879;5592
+Buenos Aires(AEP);Cordoba(COR);AR1570;Aerolineas Argentinas;790;865;3385
+Rio Grande(RGA);Buenos Aires(AEP);AR1849;Aerolineas Argentinas;803;993;11863
+Cordoba(COR);Mendoza(MDZ);AU2562;Austral Lineas Aereas;806;871;5486
+Buenos Aires(EZE);Bariloche(BRC);AR1872;Aerolineas Argentinas;828;968;8309
+Bariloche(BRC);Buenos Aires(EZE);AR1873;Aerolineas Argentinas;628;768;10000
+Buenos Aires(AEP);Santiago Del Estero(SDE);AU2488;Austral Lineas Aereas;830;925;6480
+Buenos Aires(AEP);La Rioja(IRJ);AU2458;Austral Lineas Aereas;851;945;8168
+Buenos Aires(AEP);El Calafate(FTE);AR1870;Aerolineas Argentinas;864;994;15098
+Buenos Aires(AEP);San Martin Andes(CPC);AR1614;Austral Lineas Aereas;871;986;10954
+Mendoza(MDZ);Neuquen(NQN);AR2439;Aerolineas Argentinas;897;977;8107
+Buenos Aires(AEP);Esquel(EQS);AU2662;Austral Lineas Aereas;933;1063;9496
+Buenos Aires(AEP);Resistencia(RES);AU2760;Aerolineas Argentinas;968;1058;5934
+Buenos Aires(AEP);San Juan(AUQ);AR1430;AerolineasArgentinas;976;1066;5285
+Neuquen(NQN);Comodoro Rivadavia(CRD);AR2439;Aerolineas Argentinas;1002;1087;8034
+La Rioja(IRJ);Buenos Aires(AEP);AU2058;Austral Lineas Aereas;1005;1099;8168
+El Calafate(FTE);Trelew(REL);AR2869;Aerolineas Argentinas;1016;1106;20149
+Comodoro Rivadavia(CRD);Neuquen(NQN);AU2438;Austral Lineas Aereas;1026;1111;4764
+San Martin Andes(CPC);Buenos Aires(AEP);AR1615;Aerolineas Argentinas;1039;1154;10954
+Buenos Aires(AEP);Posada(PSS);AU2750;Austral Lineas Aereas;1040;1135;5204
+Comodoro Rivadavia(CRD);Trelew(REL);AU2601;Austral Lineas Aereas;950;1010;2034
+Trelew(REL);Comodoro Rivadavia(CRD);AU2600;Austral Lineas Aereas;1050;1110;2034
+Trelew(REL);Buenos Aires(AEP);AU2869;Austral Lineas Aereas;1056;1166;6479
+Santiago Del Estero(SDE);Buenos Aires(AEP);AU2489;Austral Lineas Aereas;1060;1155;6480
+Buenos Aires(AEP);San Rafael(AFA);AU2419;Austral Lineas Aereas;1067;1182;5772
+San Rafael(AFA);Buenos Aires(AEP);AR2420;Aerolineas Argentinas;860;980;7518
+San Luis(LUQ);Buenos Aires(AEP);AU2487;Austral Lineas Aereas;1100;1190;8812
+Buenos Aires(AEP);San Luis(LUQ);AR1486;Aerolineas Argentinas;840;935;6724;
+Puerto Iguazu(IGR);Salta(SLA);AU2814;Austral Lineas Aereas;1073;1198;15763
+Resistencia(RES);Buenos Aires(AEP);AR1793;Aerolineas Argentinas;1099;1189;8746
+El Calafate(FTE);Buenos Aires(AEP);AR1821;Aerolineas Argentinas;1108;1238;15098
+Bariloche(BRC);Cordoba(COR);AU2802;Austral Lineas Aereas;1111;1231;8534
+Esquel(EQS);Buenos Aires(AEP);AU2663;Austral Lineas Aereas;1112;1242;9496
+San Juan(AUQ);Buenos Aires(AEP);AR1431;Aerolineas Argentinas;1115;1205;7571
+Salta(SLA);Cordoba(COR);AR1818;Aerolineas Argentinas;1120;1200;5223
+Buenos Aires(AEP);Comodoro Rivadavia(CRD);AR1836;Aerolineas Argentinas;1124;1259;7745
+Comodoro Rivadavia(CRD);Buenos Aires(AEP);AR1837;Aerolineas Argentinas;1128;1263;9525
+Trelew(REL);El Calafate(FTE);AR2868;Aerolineas Argentinas;1143;1248;13396
+Buenos Aires(AEP);Neuquen(NQN);AR1658;Aerolineas Argentinas;1144;1239;5568
+Buenos Aires(AEP);Formosa(FMA);AU2778;Austral Lineas Aereas;1062;1162;9960
+Formosa(FMA);Buenos Aires(AEP);AU2779;Austral Lineas Aereas;1262;1362;9960
+El Calafate(FTE);Bariloche(BRC);AR1873;Aerolineas Argentinas;1163;1268;13769
+Posada(PSS);Buenos Aires(AEP);AU2749;Austral Lineas Aereas;1180;1275;5204
+Ushuaia(USH);El Calafate(FTE);AR1871;Aerolineas Argentinas;1196;1276;8239
+Bariloche(BRC);Buenos Aires(AEP);4M7763;LATAM Argentina;1243;1368;9242
+Buenos Aires(AEP);Bahia Blanca(BHI);4M2646;LATAM Argentina;1253;1328;4531
+Mendoza(MDZ);Cordoba(COR);AU2595;Aerolineas Argentinas;1257;1322;4644
+Salta(SLA);Buenos Aires(AEP);AR1457;Aerolineas Argentinas;1261;1376;6338
+Buenos Aires(AEP);Jujuy(JUJ);AR1498;Austral Lineas Aereas;1265;1400;6740
+Buenos Aires(AEP);Mendoza(MDZ);AR1410;LATAM Argentina;1272;1367;4892
+Puerto Iguazu(IGR);Buenos Aires(EZE);4M7509;LATAM Argentina;1278;1398;6512
+El Calafate(FTE);Buenos Aires(EZE);4M7739;LATAM Argentina;1283;1458;15098
+Salta(SLA);Puerto Iguazu(IGR);AU2812;Austral Lineas Aereas;1318;1423;9116
+Buenos Aires(AEP);Trelew(REL);AR1864;Aerolineas Argentinas;1323;1433;7101
+Cordoba(COR);Buenos Aires(EZE);AR1501;Aerolineas Argentinas;1351;1426;4602
+Bahia Blanca(BHI);Buenos Aires(AEP);AU2647;Austral Lineas Aereas;1359;1434;4531
+Cordoba(COR);Buenos Aires(AEP);AR1515;Aerolineas Argentinas;1416;1491;3542
+Tucuman(TUC);Buenos Aires(AEP);4M7575;LATAM Argentina;1435;1535;6577
+Buenos Aires(EZE);Salta(SLA);AR1428;Aerolineas Argentinas;400;535;10972
+Buenos Aires(EZE);Cordoba(COR);AR1500;Aerolineas Argentinas;495;590;5492
+Rio Gallegos(RGL);Buenos Aires(AEP);4M7681;LATAM Argentina;110;287;9036
+Comodoro Rivadavia(CRD);Buenos Aires(AEP);4M7731;LATAM Argentina;175;285;7452
+Comodoro Rivadavia(CRD);Buenos Aires(AEP);AU2823;Austral Lineas Aereas;180;315;11985
+Rio Grande(RGA);Buenos Aires(AEP);AU2845;Austral Lineas Aereas;235;425;13092
+Cordoba(COR);Buenos Aires(AEP);AU2519;Austral Lineas Aereas;360;435;4400
+Neuquen(NQN);Buenos Aires(AEP);AR1671;Austral Lineas Aereas;365;460;4500
+Tucuman(TUC);Buenos Aires(AEP);AR1471;Aerolineas Argentinas;360;465;6652
+Salta(SLA);Buenos Aires(AEP);AR1453;Aerolineas Argentinas;360;480;7145
+Rosario(ROS);Buenos Aires(AEP);AU2723;Austral Lineas Aereas;450;500;7245
+Cordoba(COR);Buenos Aires(AEP);AR1591;Aerolineas Argentinas;435;510;5400
+Mendoza(MDZ);Buenos Aires(AEP);AU2403;Austral Lineas Aereas;430;525;7320
+Cordoba(COR);Buenos Aires(AEP);AR1511;Aerolineas Argentinas;630;705;3700
+Trelew(REL);Buenos Aires(AEP);AR1853;Aerolineas Argentinas;560;670;12773
+Posada(PSS);Buenos Aires(AEP);AR1751;Aerolineas Argentinas;575;670;8200
+Neuquen(NQN);Buenos Aires(AEP);AR1653;Aerolineas Argentinas;585;680;4399
+Rio Gallegos(RGL);Buenos Aires(AEP);AR1851;Aerolineas Argentinas;530;710;12000
+Cordoba(COR);Buenos Aires(AEP);AR1503;Aerolineas Argentinas;635;710;3700
+Mendoza(MDZ);Buenos Aires(AEP);AR1537;Aerolineas Argentinas;620;715;7200
+Jujuy(JUJ);Buenos Aires(AEP);AR1497;Aerolineas Argentinas;595;720;9441
+Ushuaia(USH);Buenos Aires(AEP);AR1879;Aerolineas Argentinas;540;745;19705
+Mendoza(MDZ);Buenos Aires(AEP);4M7653;LATAM Argentina;649;745;7000
+Bahia Blanca(BHI);Buenos Aires(AEP);AR1681;Aerolineas Argentinas;605;725;6730
+Cordoba(COR);Buenos Aires(AEP);4M7623;LATAM Argentina;681;757;4200
+Puerto Iguazu(IGR);Buenos Aires(AEP);AR1721;Aerolineas Argentinas;680;795;6795
+Salta(SLA);Buenos Aires(AEP);AR1451;Aerolineas Argentinas;675;795;7145
+San Juan(AUQ);Buenos Aires(AEP);AR1437;Aerolineas Argentinas;1290;1380;13346
+Puerto Iguazu(IGR);Buenos Aires(AEP);4M7503;LATAM Argentina;859;973;6795
+Ushuaia(USH);Buenos Aires(AEP);AR1789;Aerolineas Argentinas;645;855;19705
+El Calafate(FTE);Buenos Aires(AEP);AR1847;Aerolineas Argentinas;870;1045;11693
+Neuquen(NQN);Buenos Aires(AEP);AR1651;Aerolineas Argentinas;950;1045;4399
+Ushuaia(USH);Buenos Aires(AEP);AU2895;Austral Lineas Aereas;955;1160;19705
+Rosario(ROS);Buenos Aires(AEP);AU2763;Austral Lineas Aereas;1290;1340;2615
+Catamarca(CTC);Buenos Aires(AEP);AU2445;Austral Lineas Aereas;1245;1345;10633
+Trelew(REL);Buenos Aires(AEP);AR1867;Aerolineas Argentinas;1180;1290;12773
+Buenos Aires(AEP);Ushuaia(USH);AR1878;Aerolineas Argentinas;275;495;10457
+Buenos Aires(AEP);Posada(PSS);AR1750;Aerolineas Argentinas;440;535;8200
+Buenos Aires(AEP);Bariloche(BRC);AR1680;Aerolineas Argentinas;420;560;9242
+Buenos Aires(AEP);Salta(SLA);AR1450;Aerolineas Argentinas;500;635;6338
+Buenos Aires(AEP);Comodoro Rivadavia(CRD);AU2822;Austral Lineas Aereas;1255;1340;7745
+Buenos Aires(AEP);Puerto Iguazu(IGR);4M7502;LATAM Argentina;705;821;6795
+Buenos Aires(AEP);Puerto Iguazu(IGR);AR1730;Aerolineas Argentinas;730;840;6795
+Buenos Aires(AEP);Mar del Plata(MDQ);AR1604;Aerolineas Argentinas;720;780;5799
+Buenos Aires(AEP);Trelew(REL);AR1852;Aerolineas Argentinas;400;520;12773
+Buenos Aires(AEP);Jujuy(JUJ);AR1496;Aerolineas Argentinas;420;555;9441
+Buenos Aires(AEP);Formosa(FMA);AU2776;Austral Lineas Aereas;615;720;10930
+Buenos Aires(AEP);Tucuman(TUC);4M7570;LATAM Argentina;375;489;8046
+Buenos Aires(AEP);Neuquen(NQN);AR1652;Aerolineas Argentinas;430;546;7005
+Buenos Aires(AEP);Neuquen(NQN);4M7670;LATAM Argentina;370;486;6935
+Buenos Aires(AEP);Tucuman(TUC);AR1476;Aerolineas Argentinas;1070;1185;8046
+Buenos Aires(AEP);Salta(SLA);AR1458;Aerolineas Argentinas;1070;1205;6725
+Buenos Aires(AEP);Rio Grande(RGA);AU2844;Austral Lineas Aereas;200;505;13092
+Buenos Aires(AEP);Formosa(FMA);AR1778;Aerolineas Argentinas;1105;1210;10930
+Buenos Aires(AEP);Mendoza(MDZ);AR1466;Aerolineas Argentinas;1110;1225;7200
+Buenos Aires(AEP);San Juan(AUQ);AR1436;Aerolineas Argentinas;1135;1250;13346
+Buenos Aires(AEP);Resistencia(RES);AR1792;Aerolineas Argentinas;1255;1345;8746
+Buenos Aires(EZE);Tucuman(TUC);AU2472;Austral Lineas Aereas;400;525;7150
+Buenos Aires(EZE);Mendoza(MDZ);AU2462;Austral Lineas Aereas;405;525;9515
+Buenos Aires(EZE);Rosario(ROS);AU2702;Austral Lineas Aereas;490;555;2656
+Buenos Aires(EZE);Cordoba(COR);AR1524;Aerolineas Argentinas;725;820;3783
+Buenos Aires(EZE);Bariloche(BRC);AR1698;Aerolineas Argentinas;745;890;13971
+Buenos Aires(EZE);Puerto Iguazu(IGR);4M7506;LATAM Argentina;1030;1146;6850
+Buenos Aires(EZE);Cordoba(COR);AU2518;Austral Lineas Aereas;1290;1385;5492
+Cordoba(COR);Buenos Aires(EZE);AR1529;Aerolineas Argentinas;860;940;3783
+Bariloche(BRC);Buenos Aires(EZE);4M7765;LATAM Argentina;975;1099;13971
+Buenos Aires(EZE);Mendoza(MDZ);AU2463;Austral Lineas Aereas;1145;1245;9515
+Buenos Aires(AEP);Catamarca(CTC);AU2445;Austral Lineas Aereas;1245;1345;10633
+Jujuy(JUJ);Cordoba(COR);AU2433;Austral Lineas Aereas;510;595;6654
+Tucuman(TUC);Cordoba(COR);AU2586;Austral Lineas Aereas;560;625;3864
+Neuquen(NQN);Cordoba(COR);AR1585;Aerolineas Argentinas;860;960;8284
+Puerto Iguazu(IGR);Cordoba(COR);AU2707;Austral Lineas Aereas;530;650;10438
+El Calafate(FTE);Cordoba(COR);AU2827;Austral Lineas Aereas;750;950;12346
+Comodoro Rivadavia(CRD);Cordoba(COR);AU2555;Austral Lineas Aereas;790;960;9600
+Cordoba(COR);Neuquen(NQN);AR1584;Aerolineas Argentinas;705;815;8284
+Cordoba(COR);Comodoro Rivadavia(CRD);AU2554;Austral Lineas Aereas;730;890;9600
+Cordoba(COR);Jujuy(JUJ);AU2420;Austral Lineas Aereas;1105;1195;6654
+Cordoba(COR);Tucuman(TUC);AU2587;Austral Lineas Aereas;1075;1140;3864
+Buenos Aires(AEP);Comodoro Rivadavia(CRD);AR1832;Aerolineas Argentinas;295;440;7302
+Neuquen(NQN);Comodoro Rivadavia(CRD);AU2439;Austral Lineas Aereas;420;500;8202
+Puerto Iguazu(IGR);Rosario(ROS);AU2811;Austral Lineas Aereas;735;850;9500
+Puerto Iguazu(IGR);Mendoza(MDZ);WJ3560;jetSMART Argentina;1008;1162;10438
+Cordoba(COR);Mendoza(MDZ);AU2594;Austral Lineas Aereas;1045;1110;7745
+Cordoba(COR);Mar del Plata(MDQ);AU2634;Austral Lineas Aereas;745;840;5799
+Rosario(ROS);Salta(SLA);AU2800;Austral Lineas Aereas;585;700;5745
+Cordoba(COR);Salta(SLA);AR1819;Aerolineas Argentinas;1035;1120;7200
+San Luis(LUQ);Buenos Aires(AEP);AU24800;Austral Lineas Aereas;1100;1150;9812
